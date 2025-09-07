@@ -1,6 +1,6 @@
 
 
-# 🎯 Auto-Tagging Support Tickets Using Zero-Shot Classification  
+# Auto-Tagging Support Tickets Using Zero-Shot Classification  
 
 ## 📌 Objective  
 The goal of this project is to automatically **categorize IT support tickets** into predefined groups (e.g., *Hardware, Access, Purchase, HR Support*) without the need for training a custom model.  
