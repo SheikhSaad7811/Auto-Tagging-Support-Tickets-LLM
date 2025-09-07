@@ -59,10 +59,9 @@ This is achieved using **Zero-Shot Learning** with Hugging Face Transformers.
 ---
 
 ## 📂 Project Structure  
-├── AutoTagging_Tickets.ipynb # Main Colab notebook
-├── IT_Ticket_Dataset.xlsx # Dataset (Kaggle)
-├── ticket_predictions.csv # Predictions with top-1 and top-3
-└── README.md # Project documentation
-
-## 📂 Project Structure  
+- ├── AutoTagging_Tickets.ipynb # Main Colab notebook
+- ├── IT_Ticket_Dataset.xlsx # Dataset (Kaggle)
+- ├── ticket_predictions.csv # Predictions with top-1 and top-3
+- └── README.md # Project documentation
+  
 
